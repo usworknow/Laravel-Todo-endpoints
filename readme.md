@@ -15,7 +15,6 @@
 -   Tag or Categorize an item
 -   Search
 -   Logout
--   Anything else you see that would create a plea
 
 ## Instructions
 
