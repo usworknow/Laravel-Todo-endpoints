@@ -1,8 +1,8 @@
 ## To-Do Application Challenge
 
-**Frontend**: React (https://github.com/JeanHules/react-boiler-plate).
+**Frontend**: React, React-Thunk, ES6, JavaScript, HTML5, CSS3, SCSS/LESS.
 
-**Backend**: Laravel (https://github.com/JeanHules/laravel-boiler-plate)
+**Backend**: Laravel, MySQL
 
 ## Requirement
 
